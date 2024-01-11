@@ -6,4 +6,6 @@ staging area --> git has a track of it in you rlocal system but it is not yet os
 or 
 git add [filename]
 git commit -m "your message" --> goes into the commited stage with a message attached to it
+git log --> used to view the git history of all the commits
+git reset [the commit id] --> this changes the head pointer to the commit id that you have put there. so the previous all the commits and changes go back in the statging area
 
