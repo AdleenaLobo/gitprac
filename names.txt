@@ -1,0 +1,9 @@
+git init --> initializes the git repo
+git status --> shows history
+untracked file [changes made but not tracked by git]
+git add . --> adds all the files in the current folder to the staging area
+staging area --> git has a track of it in you rlocal system but it is not yet osted on the cloud
+or 
+git add [filename]
+git commit -m "your message" --> goes into the commited stage with a message attached to it
+
