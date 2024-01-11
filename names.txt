@@ -7,5 +7,6 @@ or
 git add [filename]
 git commit -m "your message" --> goes into the commited stage with a message attached to it
 git log --> used to view the git history of all the commits
-git reset [the commit id] --> this changes the head pointer to the commit id that you have put there. so the previous all the commits and changes go back in the statging area
-
+git reset [the commit id] --> this changes the head pointer to the commit id that you have put there. so the previous all the commits and changes go back in th local repo it aint in your staging area . basically its nomore tracked
+git stash --> everything in the staging area goes to the backstage and no more in the staging area.
+ 
